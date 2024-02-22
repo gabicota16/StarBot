@@ -105,70 +105,68 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *Pasatiempo(s)* ➺ ${user.pasatiempo === 0 ? '*Sin Registro*' : user.pasatiempo + '\n'}
 ⊜ *Experiencia ➟* ${exp} ⚡
 ⊜ *Diamantes ➟* ${limit} 💎
-⊜ *GataCoins ➟* ${money} 🐈
+⊜ *StarCoins ➟* ${money} 🌟
 ⊜ *Tokens ➟* ${joincount} 🪙
 
-*╭━〔 🐈 OPCIONES DE MENU 🐈 〕⬣*
-┃
-┃Ⓜ️ _*MENÚ COMPLETO*_ Ⓜ️
-┃➺ _${usedPrefix}menucompleto | allmenu_
-┃
-┃🔊 _*MENÚ DE AUDIOS*_ 🔊
-┃➺ _${usedPrefix}menuaudio | menuaudios_
-┃
-┃💫 _${lenguajeGB['smsTex13']()}_ 💫
-┃➺ _${usedPrefix}infomenu_
-┃
-┃👾 _${lenguajeGB['smsTex10']()}_ 👾
-┃➺ _${usedPrefix}juegosmenu_
-┃
-┃🚀 _${lenguajeGB['smsTex9']()}_ 🚀
-┃➺ _${usedPrefix}descargasmenu_
-┃
-┃🔐 _${lenguajeGB['smsTex11']()}_ 🔐
-┃➺ _${usedPrefix}grupomenu_
-┃
-┃🧸 _${lenguajeGB['smsTex22']()}_ 🧸
-┃➺ _${usedPrefix}stickermenu_
-┃
-┃🛠️ _${lenguajeGB['smsTex12']()}_ 🛠️
-┃➺ _${usedPrefix}herramientasmenu_
-┃
-┃⛩️ _${lenguajeGB['smsTex23']()}_ ⛩️
-┃➺ _${usedPrefix}randommenu_
-┃
-┃🛰️ _${lenguajeGB['smsTex8']()}_ 🛰️
-┃➺ _${usedPrefix}convertidormenu_
-┃
-┃🎈 _${lenguajeGB['smsTex1']()}_🎈
-┃➺ _${usedPrefix}buscarmenu_
-┃
-┃🎧 _${lenguajeGB['smsTex2']()}_ 🎧
-┃➺ _${usedPrefix}audioefectomenu_
-┃
-┃🔞 _${lenguajeGB['smsTex3']()}_ 🔞
-┃➺ _${usedPrefix}menu18 | hornymenu_
-┃
-┃⚗️ _${lenguajeGB['smsTex21']()}_ ⚗️
-┃➺ _${usedPrefix}rpgmenu_
-┃
-┃⛺ _${lenguajeGB['smsTex14']()}_ ⛺
-┃➺ _${usedPrefix}makermenu_
-┃
-┃💮 _${lenguajeGB['smsTex15']()}_ 💮
-┃➺ _${usedPrefix}menulogos2_
-┃
-┃🌅 _${lenguajeGB['smsTex15']()}_ 🌅
-┃➺ _${usedPrefix}menulogos2_
-┃
-┃💎 _${lenguajeGB['smsTex20']()}_ 💎
-┃➺ _${usedPrefix}ownermenu_
-┃
-┃✅ *_CUENTAS OFICIALES GATABOT_* ✅
-┃➺ _${usedPrefix}cuentasgatabot | cuentasgb_
-┃
-*╰━━━━━━━━━━━━━⬣*`.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}}) 
+┏『 ⚜️ *OPCIONES DE MENU* ⚜️ 』
+┋
+┋Ⓜ️ _*MENÚ COMPLETO*_ Ⓜ️
+┋➽ _${usedPrefix}menucompleto | allmenu_
+┋
+┋🔊 _*MENÚ DE AUDIOS*_ 🔊
+┋➽ _${usedPrefix}menuaudio | menuaudios_
+┋
+┋💫 _${lenguajeGB['smsTex13']()}_ 💫
+┋➽ _${usedPrefix}infomenu_
+┋
+┋👾 _${lenguajeGB['smsTex10']()}_ 👾
+┋➽ _${usedPrefix}juegosmenu_
+┋
+┋🚀 _${lenguajeGB['smsTex9']()}_ 🚀
+┋➽ _${usedPrefix}descargasmenu_
+┋
+┋🔐 _${lenguajeGB['smsTex11']()}_ 🔐
+┋➽ _${usedPrefix}grupomenu_
+┋
+┋🧸 _${lenguajeGB['smsTex22']()}_ 🧸
+┋➽ _${usedPrefix}stickermenu_
+┋
+┋🛠️ _${lenguajeGB['smsTex12']()}_ 🛠️
+┋➽ _${usedPrefix}herramientasmenu_
+┋
+┋⛩️ _${lenguajeGB['smsTex23']()}_ ⛩️
+┋➽ _${usedPrefix}randommenu_
+┋
+┋🛰️ _${lenguajeGB['smsTex8']()}_ 🛰️
+┋➽ _${usedPrefix}convertidormenu_
+┋
+┋🎈 _${lenguajeGB['smsTex1']()}_🎈
+┋➽ _${usedPrefix}buscarmenu_
+┋
+┋🎧 _${lenguajeGB['smsTex2']()}_ 🎧
+┋➽ _${usedPrefix}audioefectomenu_
+┋
+┋
+┋⚗️ _${lenguajeGB['smsTex21']()}_ ⚗️
+┋➽ _${usedPrefix}rpgmenu_
+┋
+┋⛺ _${lenguajeGB['smsTex14']()}_ ⛺
+┋➽ _${usedPrefix}makermenu_
+┋
+┋💮 _${lenguajeGB['smsTex15']()}_ 💮
+┋➽ _${usedPrefix}menulogos2_
+┋
+┋🌅 _${lenguajeGB['smsTex15']()}_ 🌅
+┋➽ _${usedPrefix}menulogos2_
+┋
+┋💎 _${lenguajeGB['smsTex20']()}_ 💎
+┋➽ _${usedPrefix}ownermenu_
+┋
+┋✅ *_CUENTAS OFICIALES STARBOT_* ✅
+┋➽ _${usedPrefix}cuentasstarbot | cuentassr_
+┋
+┗━━━━━━━━━━━━━⬣`.trim()
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}}) 
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
