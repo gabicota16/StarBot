@@ -112,7 +112,7 @@ let menuA = `🎧 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}smooth_
 ∘ _${usedPrefix}tupai_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex2']()} 🧰`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex2']()} 🧰`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -252,7 +252,7 @@ ${lenguajeGB['smsTex7']()}
 ∘ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? temaX[83][0] : temaX[83][1]}_
 ∘ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? temaX[84][0] : temaX[84][1]}_
 ∘ _${usedPrefix}${lenguajeGB.lenguaje() == 'es' ? temaX[85][0] : temaX[85][1]}_`.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex3']()} 🥵`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex3']()} 🥵`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //await conn.sendButton(m.chat, menuA, menuB, pp, [[lenguajeGB.smsBotonM1(), usedPrefix + 'menu'], [lenguajeGB.smsBotonM2(), usedPrefix + 'allmenu'], [lenguajeGB.lenguaje() == 'es' ? '🔞 ver lista porno 🔞'.toUpperCase() : '🔞 list horny🔞 '.toUpperCase(), lenguajeGB.lenguaje() == 'es' ? usedPrefix + 'listaporno' : usedPrefix + 'listhorny']], fkontak, adReply, m)
 
   
@@ -297,7 +297,7 @@ let menuA = `📍 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}toenlace  *video, imagen o audio*_
 ∘ _${usedPrefix}tts es *texto*_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex8']()}  🛰️`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex8']()}  🛰️`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)  
 
   
@@ -343,7 +343,7 @@ let menuA = `🪄 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}morse codificar *texto*_
 ∘ _${usedPrefix}morse decodificar *morse*_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex9']()} 🚀`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex9']()} 🚀`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -401,7 +401,7 @@ let menuA = `🎠 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}ruleta_
 ∘ _${usedPrefix}suerte_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex10']()} 🎡`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex10']()} 🎡`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -450,7 +450,7 @@ let menuA = `🔰 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}on_
 ∘ _${usedPrefix}off_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex11']()} 🌐`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex11']()} 🌐`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -465,7 +465,7 @@ let menuA = `🔩 ${lenguajeGB['smsConfi2']()} *${username}*
 ┊დ *${lenguajeGB['smsBotonM6']()} » ${level}*
 ┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
 ╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
-⠇ ${lenguajeGB['smsTex12']()} 🛠️
+⠇ ${lenguajeGB['smsTex12']()} 🛠️ 
 ∘ _${usedPrefix}afk *motivo*_
 ∘ _${usedPrefix}acortar *url*_
 ∘ _${usedPrefix}calc *operacion math*_
@@ -480,7 +480,7 @@ let menuA = `🔩 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}encuesta | poll *Motivo*_
 ∘ _${usedPrefix}horario_
 `.trim()
-await conn.sendFile(m.chat, pp, 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex12']()} 🛠️`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, pp, 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex12']()} 🛠️`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
  
@@ -496,12 +496,12 @@ let menuA = `🌟 ${lenguajeGB['smsConfi2']()} *${username}*
 ┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
 ╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
 ⠇ ${lenguajeGB['smsTex13']()} 💫
-∘ _${usedPrefix}cuentasgatabot | cuentasgb_
-∘ _${usedPrefix}gruposgb | grupos | groupgb_
+∘ _${usedPrefix}cuentasstarbot | cuentasb_
+∘ _${usedPrefix}grupossb | grupos | groupsb_
 ∘ _${usedPrefix}donar | donate_
 ∘ _${usedPrefix}listagrupos | grouplist_
-∘ _${usedPrefix}estado | heygata | status_
-∘ _${usedPrefix}infogata | infobot_
+∘ _${usedPrefix}estado | heystar | status_
+∘ _${usedPrefix}infostar | infobot_
 ∘ _${usedPrefix}instalarbot | installbot_
 ∘ _${usedPrefix}creadora | owner_
 ∘ _${usedPrefix}velocidad | ping_
@@ -513,7 +513,7 @@ let menuA = `🌟 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _términos y condiciones_
 ∘ _Bot_ 
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex13']()} 💫`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex13']()} 💫`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -538,7 +538,7 @@ let menuA = `✨ ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}pixelar_
 ∘ _${usedPrefix}blur_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex14']()} ⛺`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex14']()} ⛺`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -582,7 +582,7 @@ let menuA = `⛲ ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ ${usedPrefix}cardchristmas *Texto*
 ∘ ${usedPrefix}flowercard *Texto*
 `.trim()
-await conn.sendFile(m.chat, pp, 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex15']()} 🌅`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, pp, 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex15']()} 🌅`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 // conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -602,7 +602,7 @@ let menuA = `🛂 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}unete *enlace*_
 ∘ _${usedPrefix}dardiamantes *cantidad*_
 ∘ _${usedPrefix}darxp *cantidad*_
-∘ _${usedPrefix}dargatacoins *cantidad*_
+∘ _${usedPrefix}darstarcoins *cantidad*_
 ∘ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_
 ∘ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_
 ∘ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_
@@ -616,7 +616,7 @@ let menuA = `🛂 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}comunicargrupos *texto*_
 ∘ _${usedPrefix}borrartmp | cleartmp_
 ∘ _${usedPrefix}delexp *@tag*_
-∘ _${usedPrefix}delgatacoins *@tag*_
+∘ _${usedPrefix}delstarcoins *@tag*_
 ∘ _${usedPrefix}deldiamantes *@tag*_
 ∘ _${usedPrefix}reiniciar | restart_
 ∘ _${usedPrefix}ctualizar | update_
@@ -625,9 +625,9 @@ let menuA = `🛂 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}listapremium | listprem_
 ∘ _${usedPrefix}añadirdiamantes *@tag cantidad*_
 ∘ _${usedPrefix}añadirxp *@tag cantidad*_
-∘ _${usedPrefix}añadirgatacoins *@tag cantidad*_
+∘ _${usedPrefix}añadirstarcoins *@tag cantidad*_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex20']()} 💎`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex20']()} 💎`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -694,7 +694,7 @@ let menuA = `⛩️ ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}sakura_
 ∘ _${usedPrefix}cosplay_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex23']()} 🧩`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex23']()} 🧩`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
   
@@ -744,7 +744,7 @@ let menuA = `🪅 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}myns_
 ∘ _${usedPrefix}unreg *numero de serie*_
 ∘ _${usedPrefix}minardiamantes | minargemas_
-∘ _${usedPrefix}minargatacoins | minarcoins_
+∘ _${usedPrefix}minarstarcoins | minarcoins_
 ∘ _${usedPrefix}minarexperiencia | minarexp_
 ∘ _${usedPrefix}minar *:* minar2 *:* minar3_
 ∘ _${usedPrefix}reclamar | regalo | claim_
@@ -756,7 +756,7 @@ let menuA = `🪅 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}rob | robar_
 ∘ _${usedPrefix}crime_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex21']()} ⚗️`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex21']()} ⚗️`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 
 
@@ -796,7 +796,7 @@ let menuA = `🧸 ${lenguajeGB['smsConfi2']()} *${username}*
 ∘ _${usedPrefix}stickerfilter *efecto : responder a imagen*_
 ∘ _${usedPrefix}cs *:* cs2_
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex22']()} 🧸`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menuA, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: `${lenguajeGB['smsTex22']()} 🧸`, body: ' 😻 𝗦𝘂𝗽𝗲𝗿 𝙎𝙩𝙖𝙧-𝘽𝙤𝙩 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 ///conn.sendButtonVid(m.chat, pp, menuA, menuB, lenguajeGB.smsBotonM1(), '.menu', lenguajeGB.smsBotonM2(), '/allmenu', lenguajeGB.smsBotonM3(), '#inventario', fkontak, adReply)
 } 
 } catch (e) {
