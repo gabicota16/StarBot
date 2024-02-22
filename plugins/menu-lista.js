@@ -134,7 +134,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┋🛠️ _${lenguajeGB['smsTex12']()}_ 🛠️
 ┋➽ _${usedPrefix}herramientasmenu_
 ┋
-┋⛩️ _${lenguajeGB['smsTex23']()}_ ⛩️
+┋⛩️ _${lenguajeGB['smsTex23']()}_ 
 ┋➽ _${usedPrefix}randommenu_
 ┋
 ┋🛰️ _${lenguajeGB['smsTex8']()}_ 🛰️
@@ -145,7 +145,6 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┋
 ┋🎧 _${lenguajeGB['smsTex2']()}_ 🎧
 ┋➽ _${usedPrefix}audioefectomenu_
-┋
 ┋
 ┋⚗️ _${lenguajeGB['smsTex21']()}_ ⚗️
 ┋➽ _${usedPrefix}rpgmenu_
