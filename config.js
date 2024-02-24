@@ -365,7 +365,7 @@ let emot = {
       kambing: '🐐 Cabra : Goat',
       kerbau: '🐃 Búfalo : Buffalo',
       lion: '🦁 León : Lion',
-      money: lenguajeGB.eStarCoins(),
+      money: lenguajeGB.eGataCoins(),
       monyet: '🐒 Mono : Monkey',
       panda: '🐼 Panda',
       snake: '🐍 Serpiente : Snake',
@@ -426,7 +426,7 @@ string = string.toLowerCase();
 let emottt = {
       exp: lenguajeGB.eExp(), limit: lenguajeGB.eDiamante(), diamond: lenguajeGB.eDiamantePlus(), joincount: lenguajeGB.eToken(),
       emerald: lenguajeGB.eEsmeralda(), berlian: lenguajeGB.eJoya(), kyubi: lenguajeGB.eMagia(), gold: lenguajeGB.eOro(),
-      money: lenguajeGB.eStarCoins(), tiketcoin: lenguajeGB.eStarTickers(), stamina: lenguajeGB.eEnergia(),
+      money: lenguajeGB.eGataCoins(), tiketcoin: lenguajeGB.eGataTickers(), stamina: lenguajeGB.eEnergia(),
             
       potion: lenguajeGB.ePocion(), aqua: lenguajeGB.eAgua(), trash: lenguajeGB.eBasura(), wood: lenguajeGB.eMadera(),
       rock: lenguajeGB.eRoca(), batu: lenguajeGB.ePiedra(), string: lenguajeGB.eCuerda(), iron: lenguajeGB.eHierro(),
